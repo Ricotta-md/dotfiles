@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = huoran2805263@outlook.com
+	name = Helen Huo
